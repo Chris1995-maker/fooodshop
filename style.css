@@ -160,7 +160,7 @@ nav ul li a{
 		display: flex;
 		justify-content: space-between;
 	}
-	.room-col{
+	.foods-col{
 		flex-basis: 31%;
 		background: #fff3f3;
 		border-radius: 10px;
@@ -174,7 +174,7 @@ nav ul li a{
 		font-weight: 600;
 		margin: 10px 0;
 	}
-	.room-col:hover{
+	.foods-col:hover{
 		box-shadow: 0 0 20px 0px rgba(0,0,0,0.2);
 	}
 	@media(max-width: 700){
@@ -182,7 +182,7 @@ nav ul li a{
 			flex-direction: column;
 		}
 	}
-	.mission{
+	.services{
 		width: 80%;
 		margin: auto;
 		text-align: center;
@@ -206,19 +206,6 @@ nav ul li a{
 		font-weight: 300;
 		line-height: 22px;
 		padding: 10px;	
-	}
-	.vision{
-		width: 80%;
-		margin: auto;
-		text-align: center;
-		padding-top: 50px;
-		flex-basis: 31%;
-		background: #fff3f3;
-		border-radius: 10px;
-		margin-bottom: 5%;
-		padding: 20px 12px;
-		box-sizing: border-box;
-		transition: 0.5s;
 	}
 	h1{
 		text-align: center;
